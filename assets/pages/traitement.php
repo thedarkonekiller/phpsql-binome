@@ -20,7 +20,8 @@ if(!empty($db) && $_POST["add"]){
 
 }
 if (!empty($db) && $_POST["suppr"]) {
-    $req = "SELECT id FROM techni"
+    $req = "SELECT id FROM techniques";
+    $req
 }
 
 ?>

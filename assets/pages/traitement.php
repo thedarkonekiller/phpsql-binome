@@ -19,9 +19,9 @@ if(!empty($db) && $_POST["add"]){
     $db = null;
 
 }
-if (!empty($db) && $_POST["suppr"]) {
-    $req = "SELECT id FROM techniques";
-    $req
-}
+// if (!empty($db) && $_POST["suppr"]) {
+//     $req = "SELECT id FROM techniques";
+//     $req
+// }
 
 ?>

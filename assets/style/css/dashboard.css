@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: black;
+}
+body header h1 {
+  color: white;
+}
+body section {
+  width: 70%;
+  background: grey;
+  border-radius: 6px;
+  margin: 1rem auto;
+}
+body section h2 {
+  margin: 0 auto;
+}
+body section form {
+  width: 100%;
+}
+body section form label {
+  color: white;
+}
+body section form input, body section form select, body section form textarea, body section form label {
+  width: 50%;
+  margin: 0.5rem auto;
+}
+body section form input[type=submit] {
+  background: green;
+}
+
+.flex {
+  display: flex;
+}
+
+.flexCollumn {
+  flex-direction: column;
+}
+
+/*# sourceMappingURL=dashboard.css.map */

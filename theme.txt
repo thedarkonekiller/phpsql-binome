@@ -1,0 +1,3 @@
+bdd name: peche
+    table name: techniques
+        
